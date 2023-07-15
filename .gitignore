@@ -16,6 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+src/main/webapp/META-INF/MANIFEST.MF
 
 ### IntelliJ IDEA ###
 .idea
